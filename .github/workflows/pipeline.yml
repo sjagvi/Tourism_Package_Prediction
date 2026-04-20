@@ -72,4 +72,4 @@ jobs:
       - name: Push files to HF Space
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: python tourism_project/hosting/hosting.py.github/workflows/
+        run: python tourism_project/hosting/hosting.py
