@@ -4,7 +4,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from huggingface_hub import HfApi
 
-HF_USER = "your-hf-username"
+HF_USER = "iamsubha"
 DATA_REPO = f"{HF_USER}/tourism-data"
 
 api = HfApi(token=os.getenv("HF_TOKEN"))
