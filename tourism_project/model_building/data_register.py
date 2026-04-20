@@ -4,7 +4,7 @@ from huggingface_hub import HfApi, create_repo
 from huggingface_hub.utils import RepositoryNotFoundError
 
 # TODO: replace with your HF username
-HF_USER = "your-hf-username"
+HF_USER = "iamsubha"
 REPO_ID = f"{HF_USER}/tourism-data"
 REPO_TYPE = "dataset"
 
