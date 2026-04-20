@@ -1,0 +1,7 @@
+# Runtime deps for the Streamlit app inside the Docker container
+streamlit==1.43.2
+scikit-learn==1.6.0
+pandas==2.2.2
+numpy==1.26.4
+joblib==1.5.1
+huggingface_hub==0.32.6

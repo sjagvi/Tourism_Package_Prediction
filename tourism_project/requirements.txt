@@ -1,0 +1,8 @@
+# Deps for the CI/CD pipeline jobs (data register, prep, train, hosting)
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.6.0
+joblib==1.5.1
+huggingface_hub==0.32.6
+datasets==3.6.0
+mlflow==2.18.0
